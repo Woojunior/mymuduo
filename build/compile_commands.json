@@ -1,0 +1,87 @@
+[
+{
+  "directory": "/home/woozy/project/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/Acceptor.o -c /home/woozy/project/Acceptor.cc",
+  "file": "/home/woozy/project/Acceptor.cc"
+},
+{
+  "directory": "/home/woozy/project/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/Buffer.o -c /home/woozy/project/Buffer.cc",
+  "file": "/home/woozy/project/Buffer.cc"
+},
+{
+  "directory": "/home/woozy/project/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/Channel.o -c /home/woozy/project/Channel.cc",
+  "file": "/home/woozy/project/Channel.cc"
+},
+{
+  "directory": "/home/woozy/project/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/CurrentThread.o -c /home/woozy/project/CurrentThread.cc",
+  "file": "/home/woozy/project/CurrentThread.cc"
+},
+{
+  "directory": "/home/woozy/project/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/DefaultPoller.o -c /home/woozy/project/DefaultPoller.cc",
+  "file": "/home/woozy/project/DefaultPoller.cc"
+},
+{
+  "directory": "/home/woozy/project/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/EPollPoller.o -c /home/woozy/project/EPollPoller.cc",
+  "file": "/home/woozy/project/EPollPoller.cc"
+},
+{
+  "directory": "/home/woozy/project/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/EventLoop.o -c /home/woozy/project/EventLoop.cc",
+  "file": "/home/woozy/project/EventLoop.cc"
+},
+{
+  "directory": "/home/woozy/project/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/EventLoopThread.o -c /home/woozy/project/EventLoopThread.cc",
+  "file": "/home/woozy/project/EventLoopThread.cc"
+},
+{
+  "directory": "/home/woozy/project/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/EventLoopThreadPool.o -c /home/woozy/project/EventLoopThreadPool.cc",
+  "file": "/home/woozy/project/EventLoopThreadPool.cc"
+},
+{
+  "directory": "/home/woozy/project/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/InetAddress.o -c /home/woozy/project/InetAddress.cc",
+  "file": "/home/woozy/project/InetAddress.cc"
+},
+{
+  "directory": "/home/woozy/project/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/Logger.o -c /home/woozy/project/Logger.cc",
+  "file": "/home/woozy/project/Logger.cc"
+},
+{
+  "directory": "/home/woozy/project/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/Poller.o -c /home/woozy/project/Poller.cc",
+  "file": "/home/woozy/project/Poller.cc"
+},
+{
+  "directory": "/home/woozy/project/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/Socket.o -c /home/woozy/project/Socket.cc",
+  "file": "/home/woozy/project/Socket.cc"
+},
+{
+  "directory": "/home/woozy/project/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/TcpConnection.o -c /home/woozy/project/TcpConnection.cc",
+  "file": "/home/woozy/project/TcpConnection.cc"
+},
+{
+  "directory": "/home/woozy/project/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/TcpServer.o -c /home/woozy/project/TcpServer.cc",
+  "file": "/home/woozy/project/TcpServer.cc"
+},
+{
+  "directory": "/home/woozy/project/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/Thread.o -c /home/woozy/project/Thread.cc",
+  "file": "/home/woozy/project/Thread.cc"
+},
+{
+  "directory": "/home/woozy/project/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/Timestamp.o -c /home/woozy/project/Timestamp.cc",
+  "file": "/home/woozy/project/Timestamp.cc"
+}
+]
